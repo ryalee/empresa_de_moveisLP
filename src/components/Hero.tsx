@@ -1,5 +1,5 @@
 
-import { ArrowRight, Award, Users, Clock } from 'lucide-react';
+import { ArrowRight, Users, Clock, Award } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 const Hero = () => {
@@ -17,18 +17,12 @@ const Hero = () => {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage: `url('https://images.unsplash.com/photo-1721322800607-8c38375eef04?q=80&w=2000'),
-                           linear-gradient(rgba(44, 24, 16, 0.7), rgba(44, 24, 16, 0.6))`
+                           linear-gradient(rgba(27, 67, 50, 0.7), rgba(27, 67, 50, 0.6))`
         }}
       />
       
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <div className="max-w-4xl mx-auto animate-fade-in">
-          {/* Badge */}
-          <div className="inline-flex items-center space-x-2 bg-bm-orange/20 backdrop-blur-sm border border-bm-orange/30 rounded-full px-4 py-2 mb-6">
-            <Award className="w-4 h-4 text-bm-orange" />
-            <span className="font-source-serif text-sm text-bm-beige">Excelência desde 1995</span>
-          </div>
-
           {/* Main Heading */}
           <h1 className="font-playfair text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
             Móveis Sob Medida
