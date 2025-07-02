@@ -1,4 +1,3 @@
-
 import { Phone, Mail, MapPin, Instagram, Facebook, Youtube } from 'lucide-react';
 
 const Footer = () => {
@@ -18,7 +17,7 @@ const Footer = () => {
         <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="font-playfair text-2xl font-bold mb-4">BM Design</h3>
+            <h3 className="font-playfair text-2xl font-bold mb-4">nome</h3>
             <p className="font-source-serif text-bm-beige mb-6 leading-relaxed">
               Há mais de 28 anos criando móveis sob medida que transformam ambientes 
               e realizam sonhos em Blumenau e região.
@@ -113,7 +112,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-bm-orange flex-shrink-0 mt-1" />
                 <div>
-                  <p className="font-source-serif text-bm-beige">contato@bmdesign.com.br</p>
+                  <p className="font-source-serif text-bm-beige">contato@nome.com.br</p>
                 </div>
               </div>
               
@@ -142,7 +141,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="font-source-serif text-sm text-bm-beige">
-              © {currentYear} BM Design. Todos os direitos reservados.
+              © {currentYear} nome. Todos os direitos reservados.
             </p>
             
             <div className="flex space-x-6 text-sm">

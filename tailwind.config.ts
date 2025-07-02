@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -23,12 +24,12 @@ export default {
 				'source-serif': ['Source Serif Pro', 'serif'],
 			},
 			colors: {
-				// BM Design Custom Colors
-				'bm-dark': '#2C1810',
-				'bm-medium': '#8B4513', 
-				'bm-orange': '#D2691E',
-				'bm-beige': '#F5DEB3',
-				'bm-background': '#F5F3F0',
+				// Nome Design Custom Colors
+				'bm-dark': '#1B4332',
+				'bm-medium': '#2D5A41', 
+				'bm-orange': '#40916C',
+				'bm-beige': '#D8F3DC',
+				'bm-background': '#F1F8E9',
 				
 				// Existing shadcn colors
 				border: 'hsl(var(--border))',
@@ -76,8 +77,8 @@ export default {
 				}
 			},
 			backgroundImage: {
-				'wood-gradient': 'linear-gradient(135deg, #2C1810 0%, #8B4513 50%, #D2691E 100%)',
-				'hero-wood': 'linear-gradient(rgba(44, 24, 16, 0.7), rgba(44, 24, 16, 0.5))',
+				'wood-gradient': 'linear-gradient(135deg, #1B4332 0%, #2D5A41 50%, #40916C 100%)',
+				'hero-wood': 'linear-gradient(rgba(27, 67, 50, 0.7), rgba(27, 67, 50, 0.5))',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',

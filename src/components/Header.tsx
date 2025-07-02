@@ -21,7 +21,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="font-playfair text-2xl font-bold text-bm-dark">
-              BM Design
+              nome
             </h1>
           </div>
 

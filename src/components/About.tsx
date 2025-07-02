@@ -36,14 +36,14 @@ const About = () => {
           {/* Content */}
           <div className="animate-fade-in">
             <div className="mb-6">
-              <span className="font-source-serif text-bm-orange text-lg font-semibold">Sobre a BM Design</span>
+              <span className="font-source-serif text-bm-orange text-lg font-semibold">Sobre a nome</span>
               <h2 className="font-playfair text-4xl md:text-5xl font-bold text-bm-dark mt-2 mb-6">
                 Tradição e Qualidade em Cada Detalhe
               </h2>
             </div>
 
             <p className="font-source-serif text-lg text-gray-700 mb-6 leading-relaxed">
-              Há mais de duas décadas, a BM Design combina a tradição artesanal alemã de Blumenau 
+              Há mais de duas décadas, a nome combina a tradição artesanal alemã de Blumenau 
               com as mais modernas técnicas de marcenaria. Nossa missão é criar móveis sob medida 
               que não apenas atendem às necessidades funcionais, mas também expressam a 
               personalidade e o estilo de vida de cada cliente.
@@ -70,7 +70,7 @@ const About = () => {
             <div className="relative overflow-hidden rounded-2xl shadow-2xl">
               <img 
                 src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?q=80&w=800"
-                alt="Oficina BM Design"
+                alt="Oficina nome"
                 className="w-full h-[600px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-bm-dark/50 to-transparent"></div>
