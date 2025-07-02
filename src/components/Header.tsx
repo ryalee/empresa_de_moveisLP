@@ -63,7 +63,7 @@ const Header = () => {
           <div className="hidden lg:flex items-center space-x-4">
             <div className="flex items-center space-x-2 text-bm-dark">
               <Phone className="w-4 h-4" />
-              <span className="font-source-serif text-sm">(47) 99999-9999</span>
+              <span className="font-source-serif text-sm">(11) 99999-9999</span>
             </div>
             <Button 
               onClick={() => scrollToSection('contact')}
@@ -118,7 +118,7 @@ const Header = () => {
               </button>
               <div className="flex items-center space-x-2 text-bm-dark pt-2">
                 <Phone className="w-4 h-4" />
-                <span className="font-source-serif text-sm">(47) 99999-9999</span>
+                <span className="font-source-serif text-sm">(11) 99999-9999</span>
               </div>
             </nav>
           </div>

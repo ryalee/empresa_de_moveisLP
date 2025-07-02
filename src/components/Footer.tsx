@@ -1,3 +1,4 @@
+
 import { Phone, Mail, MapPin, Instagram, Facebook, Youtube } from 'lucide-react';
 
 const Footer = () => {
@@ -20,7 +21,7 @@ const Footer = () => {
             <h3 className="font-playfair text-2xl font-bold mb-4">nome</h3>
             <p className="font-source-serif text-bm-beige mb-6 leading-relaxed">
               Há mais de 28 anos criando móveis sob medida que transformam ambientes 
-              e realizam sonhos em Blumenau e região.
+              e realizam sonhos em São Paulo e região.
             </p>
             
             <div className="flex space-x-4">
@@ -104,7 +105,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Phone className="w-5 h-5 text-bm-orange flex-shrink-0 mt-1" />
                 <div>
-                  <p className="font-source-serif text-bm-beige">(47) 99999-9999</p>
+                  <p className="font-source-serif text-bm-beige">(11) 99999-9999</p>
                   <p className="font-source-serif text-sm text-gray-400">WhatsApp disponível</p>
                 </div>
               </div>
@@ -120,7 +121,7 @@ const Footer = () => {
                 <MapPin className="w-5 h-5 text-bm-orange flex-shrink-0 mt-1" />
                 <div>
                   <p className="font-source-serif text-bm-beige">Rua das Palmeiras, 123</p>
-                  <p className="font-source-serif text-bm-beige">Centro - Blumenau/SC</p>
+                  <p className="font-source-serif text-bm-beige">Vila Madalena - São Paulo/SP</p>
                 </div>
               </div>
             </div>

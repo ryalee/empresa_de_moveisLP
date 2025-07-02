@@ -43,7 +43,7 @@ const About = () => {
             </div>
 
             <p className="font-source-serif text-lg text-gray-700 mb-6 leading-relaxed">
-              Há mais de duas décadas, a nome combina a tradição artesanal alemã de Blumenau 
+              Há mais de duas décadas, a nome combina expertise artesanal 
               com as mais modernas técnicas de marcenaria. Nossa missão é criar móveis sob medida 
               que não apenas atendem às necessidades funcionais, mas também expressam a 
               personalidade e o estilo de vida de cada cliente.

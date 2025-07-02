@@ -26,7 +26,7 @@ const Hero = () => {
           {/* Badge */}
           <div className="inline-flex items-center space-x-2 bg-bm-orange/20 backdrop-blur-sm border border-bm-orange/30 rounded-full px-4 py-2 mb-6">
             <Award className="w-4 h-4 text-bm-orange" />
-            <span className="font-source-serif text-sm text-bm-beige">Tradição Alemã desde 1995</span>
+            <span className="font-source-serif text-sm text-bm-beige">Excelência desde 1995</span>
           </div>
 
           {/* Main Heading */}
@@ -37,7 +37,7 @@ const Hero = () => {
 
           {/* Subtitle */}
           <p className="font-source-serif text-xl md:text-2xl text-bm-beige mb-8 max-w-3xl mx-auto leading-relaxed">
-            Combinamos a tradição artesanal alemã de Blumenau com design moderno para criar móveis únicos que transformam ambientes
+            Combinamos expertise artesanal com design moderno para criar móveis únicos que transformam ambientes
           </p>
 
           {/* CTA Buttons */}
